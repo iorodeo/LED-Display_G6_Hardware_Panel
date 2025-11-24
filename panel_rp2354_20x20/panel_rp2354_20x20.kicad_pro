@@ -1124,7 +1124,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "manual_route/2nd_layout/rev1/panel_rp2350_20x20.dsn",
-      "step": "",
+      "step": "panel_rp2354_20x20.step",
       "svg": "",
       "vrml": ""
     },
