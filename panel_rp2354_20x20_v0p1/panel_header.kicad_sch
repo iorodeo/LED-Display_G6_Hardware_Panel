@@ -461,7 +461,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "1x5 Pin Header\n\nDigikey PN: 952-M20-8890545RCT-ND\nManufacturer PN: M20-8890545R\n\nDigikey PN: 952-3266-ND\nManufacturer PN: M20-8900505"
+	(text "1x5 Pin Header\n\nJLCPCB/LCSC\nPN C7296801\n\nDigikey PN: 952-M20-8890545RCT-ND\nManufacturer PN: M20-8890545R\n\nDigikey PN: 952-3266-ND\nManufacturer PN: M20-8900505"
 		(exclude_from_sim no)
 		(at 91.821 147.955 0)
 		(effects
@@ -1275,7 +1275,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b7415442-08d4-405b-bf39-7b059859e587")
 		(property "Reference" "J2"
 			(at 97.155 91.44 0)
@@ -1321,7 +1321,16 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C7296801"
+			(at 99.695 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "952-M20-8890545RCT-ND"
 			(at 99.695 90.805 0)
 			(effects
 				(font
@@ -1448,7 +1457,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fed077b6-12f7-4cd8-8d3b-c0833d83b449")
 		(property "Reference" "J3"
 			(at 97.155 106.045 0)
@@ -1494,7 +1503,16 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C7296801"
+			(at 99.695 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "952-M20-8890545RCT-ND"
 			(at 99.695 105.41 0)
 			(effects
 				(font

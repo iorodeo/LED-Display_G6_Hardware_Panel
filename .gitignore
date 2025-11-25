@@ -4,3 +4,6 @@ old
 logs
 ~_autosave*
 */production/backups
+*.lck
+_autosave*
+*.swp

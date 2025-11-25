@@ -1230,6 +1230,12 @@
           "label": "FT Rotation Offset",
           "name": "FT Rotation Offset",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Digikey Part #",
+          "name": "Digikey Part #",
+          "show": true
         }
       ],
       "filter_string": "",
