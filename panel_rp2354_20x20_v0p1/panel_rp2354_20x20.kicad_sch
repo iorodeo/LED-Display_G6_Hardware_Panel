@@ -5,7 +5,10 @@
 	(uuid "1e634561-32a0-4ffa-9d4f-e93f355464d5")
 	(paper "USLetter")
 	(title_block
-		(date "9 may 2016")
+		(title "G6 panel 45mm RP2354")
+		(date "2025-11-25")
+		(rev "v0.1.3")
+		(company "IORodeo for Reiserlab @ Janelia")
 	)
 	(lib_symbols)
 	(text "Column Pins"
