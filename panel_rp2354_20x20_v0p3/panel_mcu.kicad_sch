@@ -7,7 +7,7 @@
 	(title_block
 		(title "G6 panel 45mm RP2354")
 		(date "2026-04-09")
-		(rev "v0.3.0")
+		(rev "v0.3.1")
 		(company "IORodeo for Reiserlab @ Janelia")
 	)
 	(lib_symbols
@@ -3545,7 +3545,7 @@
 		(uuid "4276aaea-c4e9-446c-b96b-782a5756f391")
 	)
 	(no_connect
-		(at 241.3 204.47)
+		(at 241.3 196.85)
 		(uuid "8df52c28-7b8e-4c02-9d6a-474056acdedd")
 	)
 	(no_connect
@@ -4344,7 +4344,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 196.85) (xy 266.7 196.85)
+			(xy 241.3 204.47) (xy 266.7 204.47)
 		)
 		(stroke
 			(width 0)
@@ -5803,7 +5803,7 @@
 		(uuid "6290ffdb-724f-4bbf-b392-dda8703f89a9")
 	)
 	(label "XIP_CS1n"
-		(at 266.7 196.85 180)
+		(at 266.7 204.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)

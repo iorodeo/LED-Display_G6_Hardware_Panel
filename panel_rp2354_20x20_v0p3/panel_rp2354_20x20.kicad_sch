@@ -7,7 +7,7 @@
 	(title_block
 		(title "G6 panel 45mm RP2354")
 		(date "2026-04-09")
-		(rev "v0.3.0")
+		(rev "v0.3.1")
 		(company "IORodeo for Reiserlab @ Janelia")
 	)
 	(lib_symbols)
