@@ -1124,7 +1124,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "manual_route/2nd_layout/rev1/panel_rp2350_20x20.dsn",
-      "step": "panel_rp2354_20x20.step",
+      "step": "assets/panel_45mm_RP2354.step",
       "svg": "",
       "vrml": ""
     },
@@ -1236,6 +1236,18 @@
           "label": "Digikey Part #",
           "name": "Digikey Part #",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Alternative",
+          "name": "LCSC Alternative",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LSCS Alternative",
+          "name": "LSCS Alternative",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1274,7 +1286,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "assets/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
